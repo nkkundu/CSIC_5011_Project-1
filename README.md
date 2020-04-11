@@ -1,4 +1,4 @@
-# CSIC 5011 Project-1 by Neel Kanth Kundu and Avik Kumar Das
+# CSIC 5011 (Spring'20) Project-1 by Neel Kanth Kundu and Avik Kumar Das
 # Performance Improvement of FNN based Image Classification using PCA
 
 This repository contains the google colab notebook for the experiments done in the project
